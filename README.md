@@ -3,7 +3,7 @@ Olá, meu nome é Rui Romanini e sou formado em Ciências da Computação, pela 
 De 1997 até 2015 atuei na área de desenvolvimento de software, com diferentes plataformas, iniciando com Microsoft, Visual Basic, SQL Server, dentro do segmento bancário, 
 e evoluindo ao longo dos anos para o uso de Java, dentro do segmento de soluções de ECM (gestão de documentos) e BPM (gestão por processos).
 Em 2016 iniciei minha jornada na área de Analytics, com foco principal na área de ciência de dados, utilizando plataformas open source (R e Python), 
-ferramentas visuais (SPSS Modeler) e plataformas em Nuvem. (principalmente IBM e Microsoft)
+ferramentas visuais (SPSS Modeler) e plataformas em Nuvem. 
 
 Atualmente trabalho como Engenheiro de Inovação na Oracle, na área de ciência de dados e cloud computing.
 Com uso de dados e algoritmos, conseguimos otimizar processos, reduzir gastos e trazer maior segurança para processos, o que significa, redução de custos, tempo e salvar vidas.
