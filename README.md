@@ -1,25 +1,18 @@
 # Presentation
-Olá, meu nome é Rui Romanini e sou formado em Ciências da Computação, pela Universidade São Judas Tadeu, com especialização em Arquitetura de Soluções pela FIAP.
-De 1997 até 2015 atuei na área de desenvolvimento de software, com diferentes plataformas, iniciando com Microsoft, Visual Basic, SQL Server, dentro do segmento bancário, 
-e evoluindo ao longo dos anos para o uso de Java, dentro do segmento de soluções de ECM (gestão de documentos) e BPM (gestão por processos).
-Em 2016 iniciei minha jornada na área de Analytics, com foco principal na área de ciência de dados, utilizando plataformas open source (R e Python), 
-ferramentas visuais (SPSS Modeler) e plataformas em Nuvem. 
-
-Atualmente trabalho como Engenheiro de Inovação na Oracle, na área de ciência de dados e cloud computing.
-Com uso de dados e algoritmos, conseguimos otimizar processos, reduzir gastos e trazer maior segurança para processos, o que significa, redução de custos, tempo e salvar vidas.
+AI and data science specialist with a background in software engineering and architecture, focused on developing solutions that address business challenges. 
+Areas of expertise include predictive analytics, computer vision, operations research, generative AI, and AI agents.
+Experience spans software development in Java, C++, and Python, alongside SQL, data mining, machine learning model training, and the integration of models and applications into cloud solutions.
+Academic qualifications include a bachelor’s degree in Computer Science from USJT and an MBA in Solutions Architecture from FIAP.
 
 
 # Interest
-Meu interesse atual é a utilização de métodos estatisticos para resolução de problemas de negócio e otimização de processos no uso de recursos humanos ou técnicos.
-Os principais assuntos em que busco conhecimento dentro da área técnica são os problemas de Churn, detecção de anomalias que 
-tem sua utilidade no estudo do comportamento de equipamentos e identificação de falhas; predição de falhas por diferentes fatores, o que permite também a otimização e a resolução de diversos problemas na industria.
-Busco também conhecimentos em Deep Learning, como por exemplo, o uso de IA em agentes de conversação humana, que podem apoiar processos em diversos segmentos.
-No ambito pessoal, tenho por hobbie o estudo da astronomia, astrofotografia e apoio a divulgação de ciência para as gerações que estão vindo e que podem transformar o mundo com este conhecimento.
+My current interest lies in applying Machine Learning methods to solve business problems and optimizing processes using Linear Programming, routing algorithms, and Operations Research. I also enjoy developing and training Generative AI models using PyTorch and advanced Data Science techniques. By combining ML, Data Science, Operations Research, and Generative AI, we can solve a wide range of complex business challenges. Furthermore, I specialize in building solutions that involve AI Agents, RAG, MCP tools, and memory management techniques.
+
+My hobbies include studying astronomy, practicing astrophotography, and supporting science outreach for future generations, who can transform the world with science and maths knowledge.
 
 
 # Studies
-Trabalhei por alguns anos na área de mineração de dados, e agora busco complementar meu conhecimento com estudos focados em Cloud e IA.
-Neste ano de 2022 tenho me dedicado à obter diversas certificações na plataforma Oracle, com foco em Data Science, IA e Engenharia de Dados.
+My current studies involve utilizing the NVIDIA cuOpt library to apply Operations Research techniques powered by GPUs, as well as exploring AI agent architectures, which are widely used in modern solutions. I am also revisiting statistics, as it serves as the baseline for data science and AI, offering cost-effective ways to solve many business problems. Additionally, I have a strong interest in Reinforcement Learning and other Deep Learning techniques, primarily using PyTorch libraries. Lastly, Quantum Computing remains a key area of interest and a subject of constant reading.
 
 # Contact
 email: ruiromanini@msn.com
